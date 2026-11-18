@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# __UPW_LICENCA__ · UPW-MARE-Q4D7
